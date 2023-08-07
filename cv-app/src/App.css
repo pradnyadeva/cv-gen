@@ -1,0 +1,22 @@
+.left-div{
+  width: 50%;
+  padding: 10px;
+  background-color: white;
+  
+}
+
+.right-div{
+  width: 50%;
+  padding: 10px;
+  background-color: white;
+  min-height: 850px;
+}
+
+.personal-information{
+  display: flex;
+  gap: 10px;
+}
+
+.new-line{
+  white-space: pre-line;
+}
